@@ -1,0 +1,19 @@
+
+:root{
+  --bg: #F4F1EA;
+  --text: #111;
+  --accent: #B19661;
+  --wrap: 960px;
+}
+body{font-family: Georgia, 'Times New Roman', serif; background:var(--bg); color:var(--text); margin:0; line-height:1.6;}
+.wrap{max-width:var(--wrap); margin:0 auto; padding:20px;}
+.site-header{background:white; border-bottom:1px solid #eee;}
+.site-title{margin:0; padding:18px 0; font-family: 'Playfair Display', Georgia, serif;}
+.site-nav{display:flex; gap:12px; align-items:center;}
+.site-nav a{color:var(--text); text-decoration:none; padding:10px;}
+.buy-btn{background:var(--accent); color:white; padding:8px 12px; border-radius:4px;}
+.hero{background:white; padding:30px; margin-bottom:20px; border-radius:6px;}
+.cards{list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px;}
+.card{background:white; padding:12px; border-radius:6px;}
+.for-sale{background:#fffbe9; padding:12px; border-left:4px solid var(--accent);}
+.site-footer{background:white; padding:12px; margin-top:30px; border-top:1px solid #eee; text-align:center;}
