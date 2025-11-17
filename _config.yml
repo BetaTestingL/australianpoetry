@@ -1,9 +1,11 @@
+theme: minima
 title: Australian Poetry
 email: info@australianpoetry.com
 description: "Celebrating the poets, poems and poetic heritage of Australia."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://australianpoetry.com"
 theme: minima
+# rebuild
 collections:
   poets:
     output: true
