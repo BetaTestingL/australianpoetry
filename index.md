@@ -8,7 +8,18 @@ title: Celebrating the Rich Heritage of Australian Poetry
   <p>Explore the poets, stories, and timeless verses that capture Australia’s spirit and identity.</p>
   <p class="cta"><a href="/poems/">Explore Poems</a> <a class="secondary" href="/poets/">Discover Poets</a></p>
 </section>
-
+<!-- AdSense hero ad -->
+<div class="ad-container">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-4538330277515009"
+       data-ad-slot="1234567890"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
 <section class="featured-poets">
   <h3>Featured Poets</h3>
   <ul class="cards">
