@@ -12,7 +12,7 @@ title: Celebrating the Rich Heritage of Australian Poetry
 <div class="ad-container">
   <ins class="adsbygoogle"
        style="display:block"
-       data-ad-client="ca-pub-4538330277515009"
+       data-ad-client="ca-pub-5932868000452636"
        data-ad-slot="1234567890"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
