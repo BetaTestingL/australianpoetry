@@ -10,15 +10,8 @@ title: Celebrating the Rich Heritage of Australian Poetry
 </section>
 <!-- AdSense hero ad -->
 <div class="ad-container">
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-5932868000452636"
-       data-ad-slot="1234567890"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
-  <script>
-       (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5932868000452636"
+     crossorigin="anonymous"></script>
 </div>
 <section class="featured-poets">
   <h3>Featured Poets</h3>
