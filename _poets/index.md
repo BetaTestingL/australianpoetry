@@ -1,24 +1,18 @@
 ---
 layout: default
-title: Poems Collection
-permalink: /poems/
+title: Poets Directory
+permalink: /poets/
 ---
 
-## Buy Books by {{ page.title }}
+# Australian Poets Directory
 
-Looking for works by {{ page.title }}? Find recommended titles and anthologies on Amazon:
-
-<a class="btn-aff" href="https://www.amazon.com/s?k={{ page.title | uri_escape }}+poems&tag=anubhavp05-21" target="_blank" rel="noopener">Buy books by {{ page.title }}</a>
-
-# Poems Collection
-
-Explore featured poems:
+Below is a curated list of poets featured on this site. Click a name to read short bio and works.
 
 <ul>
-{% for poem in site.poems %}
+{% for poet in site.poets %}
   <li>
-    <a href="{{ poem.url | relative_url }}">{{ poem.title }}</a>
-    {% if poem.excerpt %} — <small>{{ poem.excerpt }}</small>{% endif %}
+    <a href="{{ poet.url | relative_url }}">{{ poet.title }}</a>
+    {% if poet.excerpt %} — <small>{{ poet.excerpt }}</small>{% endif %}
   </li>
 {% endfor %}
 </ul>
